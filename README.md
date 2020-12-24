@@ -27,7 +27,7 @@
 
 [在线文档国内](http://mydearzwj.gitee.io/go-admin-site/)
 
-[前端项目](https://github.com/go-admin-team/go-admin-ui)
+[前端项目](https://github.com/QinZhanlong/go-admin-ui)
 
 [视频教程](https://space.bilibili.com/565616721/channel/detail?cid=125737)
 
